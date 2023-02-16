@@ -2,8 +2,8 @@
 title: "Data-Driven Prediction of Route-Level Energy Use for Mixed-Vehicle Transit Fleets"
 collection: publications
 date: 2020-09-14
-permalink: /publications/2020-09-14-SmartComp2020
-venue: 2020 IEEE International Conference on Smart Computing (SMARTCOMP 2020)
+permalink: /publications/SmartComp2020
+venue: 2020 IEEE International Conference on Smart Computing (SMARTCOMP)
 ---
 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9239673)
