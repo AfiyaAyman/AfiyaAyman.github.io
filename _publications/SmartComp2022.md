@@ -1,6 +1,7 @@
 ---
 title: "Neural Architecture and Feature Search for Predicting the Ridership of Public Transportation Routes"
 collection: publications
+date: 2022-06-20
 permalink: /publications/SmartComp2022
 venue: 2022 IEEE International Conference on Smart Computing (SMARTCOMP)
 ---
