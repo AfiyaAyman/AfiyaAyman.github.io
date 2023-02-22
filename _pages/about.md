@@ -14,9 +14,9 @@ Before joining PennState, I completed my MS in Computer Science from the Univers
 
 My current research focuses on applying neural networks and machine learning to restructure the operational planning of regional transportation authorities to be more energy-efficient and environmentally friendly. The combination of computational methods and domain expertise can profoundly impact society, and I am committed to making a positive contribution through my work.
 
-When I have free time, I find pleasure in indulging in a variety of activities. I am an avid reader of books, with a particular interest in fiction. I also enjoy traveling to new places and taking walks to explore the outdoors. In addition, I like to watch TV series and movies that challenge me intellectually and offer food for thought. Thank you for taking the time to read a little bit about me!
-
+In my free time, I enjoy various activities such as reading books, traveling, taking walks and watching TV series and movies. I have a particular interest in fiction books and I like to explore new places outdoors. I also prefer intellectually stimulating TV series and movies. Thanks for taking the time to learn a bit about me!
 ### Interests
+
+* Automated Machine Learning
 * Data Science
-* Machine Learning
-* Cyber Security
+
