@@ -1,8 +1,8 @@
 ---
 title: "Smart Contract Development from the Perspective of Developers: Topics and Issues Discussed on Social Media"
 collection: publications
-date: 2021-05-18
-permalink: /publications/ACMTOIT2021
+date: 2020-02-15
+permalink: /publications/FC2020WTSC
 venue: 4th Workshop on Trusted Smart Contracts in Association with Financial Cryptography (FC 2020)
 ---
 
