@@ -9,24 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in **Informatics**, Pennsylvania State University, 2024 (expected)
+* Ph.D. in **Informatics**
+  * Pennsylvania State University  (cont.)              
+    * GPA: 4.0/4.0
+    * Advisor: Dr. Aron Laszka
+  * University of Houston, Houston, TX, USA
+    * GPA: 3.95/4.0
+    * Advisor: Dr. Aron Laszka
+* MS in **Computer Science**, University of Houston, 2022
+* BSC in **Computer Science and Engineering**, Chittagong University of Engineering & Technology, Bangladesh 2015
 
-Work experience
+PROFESSIONAL EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2019/01 - Present - **Graduate Research Assistant**
+  * [The University of Houston](https://www.uh.edu/), [Pennsylvania State University](https://www.psu.edu/)
+  * Supervisor: [Dr. Aron Laszka](https://aronlaszka.com/)
+  * Duties included: 
+    * Leveraged the power of Artificial Intelligence (AI) to solve various research problems focused on social goo 
+      * Developed data-driven models to optimize the operational efficiency of public transportation systems
+        * Reducing the carbon footprints through energy consumption prediction
+        * Accurately predicting passenger occupancy for better resource allocation and increased passenger comfort
+    * Contributed to the development of more efficient and effective machine learning algorithms by utilizing Automated Machine Learning (AutoML)
+    * Collected and analyzed data from various sources to conduct different studies (EDA, Topic Modelling, Statistical Analysis)
+    * Published research works in peer reviewed conferences and journals.
+
+
 Skills
 ======
 * Skill 1
