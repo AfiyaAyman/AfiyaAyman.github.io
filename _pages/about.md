@@ -20,5 +20,6 @@ In my free time, I enjoy various activities such as reading books, going on a hi
 ### Interests
 
 * Automated Machine Learning
+* AI for Social Good
 * Data Science
 
