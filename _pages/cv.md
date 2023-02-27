@@ -7,17 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[//]: # ({% include base_path %} [[PDF]]&#40;https://Amutheezan.com/files/Amutheezan_CV.pdf&#41;)
 
 Education
 ======
 * Ph.D. in **Informatics**
-  * Pennsylvania State University (contd.), 2024 (expected)
+  * [Pennsylvania State University] (https://ist.psu.edu/) (contd.), 2024 (expected)
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
   * University of Houston, Houston, TX, USA
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
-* MS in **Computer Science**, University of Houston, 2022
-* BSC in **Computer Science and Engineering**, Chittagong University of Engineering & Technology, Bangladesh 2015
+* MS in **Computer Science**, [University of Houston](https://www.uh.edu/nsm/computer-science/), 2022
+* BSC in **Computer Science and Engineering**, [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/), Bangladesh 2015
 
 Professional Experience
 ======
@@ -34,6 +34,12 @@ Professional Experience
   * Collected and analyzed data from various sources to conduct different studies (EDA, Topic Modelling, Statistical Analysis)
   * Published research works in peer reviewed conferences and journals
 
+* 2016/09 - 2018/12 - **Lecturer**
+  * [East Delta University](https://www.eastdelta.edu.bd/), Bangladesh
+    * Taught undergraduate courses in Computer Science and Engineering
+    * Designed and delivered different undergrad courses, instructed fundamental programming hands-on courses
+    * Mentored students for their research projects and thesis
+* 
 Publications
 ======
   <ul>{% for post in site.publications %}
