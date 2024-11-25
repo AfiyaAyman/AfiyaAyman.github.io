@@ -37,16 +37,23 @@ author_profile: true
 
 ---
 
-## 👨‍🔬 Research Experience
+[//]: # ()
+[//]: # (## 👨‍🔬 Research Experience)
 
-**Graduate Research Assistant**  
-Resilient Networks and Systems Lab, University of Houston  
-*Jan 2019 - Jul 2022*  
+[//]: # ()
+[//]: # (**Graduate Research Assistant**  )
 
-- Led multiple DOE and NSF-funded projects, designing machine learning frameworks for diverse domains.
-- Focused on solving real-world problems, significantly enhancing computational task efficiency and accuracy.
+[//]: # (Resilient Networks and Systems Lab, University of Houston  )
 
----
+[//]: # (*Jan 2019 - Jul 2022*  )
+
+[//]: # ()
+[//]: # (- Led multiple DOE and NSF-funded projects, designing machine learning frameworks for diverse domains.)
+
+[//]: # (- Focused on solving real-world problems, significantly enhancing computational task efficiency and accuracy.)
+
+[//]: # ()
+[//]: # (---)
 
 ## 📊 Relevant Skills
 
@@ -56,5 +63,6 @@ Resilient Networks and Systems Lab, University of Houston
 
 ---
 
-## 📬 Contact Me
-Feel free to reach out through [GitHub Issues](https://github.com/your-username/your-repo/issues) or connect via [LinkedIn](https://linkedin.com/in/your-profile). Let’s collaborate!
+[//]: # (## 📬 Contact Me)
+
+[//]: # (Feel free to reach out through [GitHub Issues]&#40;https://github.com/your-username/your-repo/issues&#41; or connect via [LinkedIn]&#40;https://linkedin.com/in/your-profile&#41;. Let’s collaborate!)
