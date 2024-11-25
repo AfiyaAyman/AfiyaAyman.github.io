@@ -1,7 +1,9 @@
 ---
-title: "Data-Driven Energy Prediction and Optimization for Multi-Modal Transit Agencies"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data-Driven Energy Optimization for Multi-Modal Transit Agencies"
+excerpt: "Predicting energy consumption to minimize fuel and electricity use, enabling optimal vehicle-to-trip assignments and charging schedules.<br/><img src='/images/energy_optimization.png'>"
 collection: projects
-publication: 'ACM Transactions on Internet Technology (ACM-TOIT)'
 ---
-This project aims to develop a data-driven energy prediction and optimization framework for multi-modal transit agencies. The framework is designed to predict the energy consumption of electric, diesel and hybrid buses and optimize the energy consumption of the entire fleet. The framework is evaluated using real-world data from the Chattanooga Area Regional Transportation Authority (CARTA). The results show that the framework can predict the energy consumption of transit buses with high accuracy and optimize the energy consumption of the entire fleet with significant energy savings. The framework can be used by other transit agencies to reduce their energy consumption and greenhouse gas emissions.
+
+Designed and implemented a predictive framework to enhance energy efficiency across various transit vehicle types. The project focuses on reducing fuel and electricity consumption while optimizing vehicle assignments and charging schedules.
+
+**Skills:** Python, Tensorflow, Keras, Numpy, Scikit-learn
