@@ -1,14 +1,8 @@
 ---
-
-title: "Teaching Experience"
-
-collection: teaching
-
-type: "Undergraduate course"
-
-permalink: /teaching/teaching_at_edu
-
-venue: "East Delta University, School of Science, Engineering & Technology"
+layout: archive
+title: "Teaching"
+permalink: /projects/
+author_profile: true
 ---
 ## Teaching Experience
 
