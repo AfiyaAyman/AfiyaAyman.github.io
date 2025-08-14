@@ -19,7 +19,8 @@ In my free time, I enjoy reading, hiking, traveling, and exploring new places. I
 [//]: # (I have a particular interest in fiction books and I like to explore new places outdoors. I also prefer intellectually stimulating TV series and movies. )
 ### Interests
 
-* Automated Machine Learning
+* Automated Machine Learning (AutoML)
+* Multi-Task Learning (MTL)
 * AI for Social Good
 * Data Science
 

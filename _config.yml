@@ -83,12 +83,12 @@ author:
   name             : "Afiya Ayman"
   avatar           : "option2.jpeg"
   bio              : "PhD | Machine Learning Researcher | Data Scientist"
-  location         : "State College, PA"
+  location         : "University Park, PA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jlVaN9IAAAAJ&hl=en"
   email            : "afiya.ayman17@gmail.com"
-  researchgate     :  https://www.researchgate.net/profile/Afiya-Ayman
+  researchgate     :  "https://www.researchgate.net/profile/Afiya-Ayman"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        : "/ayman_abstractagram/"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "afiya-ayman-a77281112/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
