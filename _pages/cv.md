@@ -27,18 +27,26 @@ Professional Experience
 ======
 
 **Research Assistant** — *Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)*  
-[The Pennsylvania State University](https://www.psu.edu/), University Park, PA — *Aug 2022 – Present*  
-Advanced **multi-task learning (MTL)** research with task-affinity–driven grouping strategies, improving gain prediction accuracy and outperforming state-of-the-art by ~7% across multiple domains. Designed a two-stage ensemble model leveraging gradient dynamics for cost-effective optimization. Applied AutoMTL frameworks to real-world transit forecasting for data-driven decision support.
+[The Pennsylvania State University](https://www.psu.edu/), University Park, PA — **Aug 2022 – Aug 2025**  
+- Advanced **multi-task learning (MTL)** research with task-affinity–driven grouping strategies, improving gain prediction accuracy and outperforming state-of-the-art by ~7% across multiple domains. 
+- Designed a two-stage ensemble model leveraging gradient dynamics for cost-effective optimization. 
+- Applied AutoMTL frameworks to real-world transit forecasting for data-driven decision support.
 
 **Research Assistant**  
-[University of Houston](https://www.uh.edu/), Houston, TX — *Jan 2019 – Jul 2022*  
-Led DOE/NSF-funded ML research in **transportation, energy, and security**, producing peer-reviewed publications and influencing transit operations. Built ANN-based energy prediction models reducing MSE by 33%, developed NAS methods for ridership prediction (9% error reduction), and conducted large-scale NLP and statistical analyses on cybersecurity datasets.
+[University of Houston](https://www.uh.edu/), Houston, TX — **Jan 2019 – Jul 2022**  
+- Led DOE/NSF-funded ML research in **transportation, energy, and security**, producing multiple peer-reviewed publications and influencing transit operations. 
+- Built ANN-based energy prediction models reducing MSE by 33%, developed NAS methods for ridership prediction (9% error reduction). 
+- Conducted large-scale NLP and statistical analyses on cybersecurity datasets, uncovering behavioral and security patterns in smart contract development and bug bounty programs.
 
-**Teaching Assistant** — [The Pennsylvania State University](https://www.psu.edu/) — *Spring 2025*  
-Object-Oriented Programming: Assisted in instruction, grading, and student support.
+**Teaching Assistant** 
+[The Pennsylvania State University](https://www.psu.edu/) — **Spring 2025**  
+- Assisted in instruction, grading, and student support for undergraduate programming course.
 
-**Lecturer** — [East Delta University](https://www.eastdelta.edu.bd/), Bangladesh — *2016 – 2018*  
-Taught Programming, Data Structures, Discrete Math, AI, and OS; designed course materials; mentored students in research and competitions.
+**Lecturer** — School of Science, Engineering & Technology,
+[East Delta University](https://www.eastdelta.edu.bd/), Bangladesh — **2016 – 2018**  
+- Taught foundational CS and engineering courses, including Programming, Data Structures, Discrete Math, AI, and OS. 
+- Designed course materials and mentored students on research and coding competitions.
+
 
 **Software & Systems Development**  
 Developed full-stack web/mobile applications (restaurant management, real estate listing, online exams) using CorePHP, MySQL, JavaScript, HTML/CSS, Bootstrap, jQuery. Built ML-powered analytics pipelines integrating Python, PyTorch, and TensorFlow with large-scale sensor, GPS, and weather data.
