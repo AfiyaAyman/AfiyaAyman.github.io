@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /projects/
 author_profile: true
 ---
-## Teaching Experience
+
+[//]: # (## Teaching Experience)
 
 **Teaching Assistant** — *[The Pennsylvania State University](https://www.psu.edu/)*, University Park, PA  
 **Jan 2025 – May 2025**  
