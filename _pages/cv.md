@@ -11,17 +11,16 @@ redirect_from:
 You can download my full CV and short resume below:
 
 - **[Download CV (Full)](files/AfiyaAyman_ShortResume.pdf)** — detailed academic CV with publications, projects, and teaching.
-- **[Download Resume (Short)](files/AfiyaAyman_ShortResume.pdf)** — condensed 1–2 page industry-focused version.
+- **[Download Resume (Short)](files/AfiyaAyman_ShortResume.pdf)** — condensed 1–2 page version.
 
 
 Education
 ======
 * Ph.D. in **Informatics**
-  * [Pennsylvania State University] (https://ist.psu.edu/) (contd.), 2024 (expected)
+  * [Pennsylvania State University] (https://ist.psu.edu/) (contd.), Summer 2025
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
-  * University of Houston, Houston, TX, USA
+* MS in **Computer Science**, [University of Houston](https://www.uh.edu/nsm/computer-science/), Summer 2022
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
-* MS in **Computer Science**, [University of Houston](https://www.uh.edu/nsm/computer-science/), 2022
 * BSC in **Computer Science and Engineering**, [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/), Bangladesh 2015
 
 Professional Experience
