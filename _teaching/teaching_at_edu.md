@@ -4,7 +4,7 @@ title: "Teaching Experience"
 
 collection: teaching
 
-type: "Undergraduate course"
+type: "Undergraduate Course"
 
 permalink: /teaching/teaching_at_edu
 

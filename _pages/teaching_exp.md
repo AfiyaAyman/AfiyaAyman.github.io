@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /projects/
+permalink: /teaching/
 author_profile: true
 ---
 ## Teaching Experience
