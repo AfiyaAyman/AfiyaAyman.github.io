@@ -16,7 +16,7 @@ You can download my full CV and short resume below:
 
 Education
 ======
-* Ph.D. in **Informatics**
+* Ph.D. in **Informatics**, Specializing in Data Science & AI
   * [Pennsylvania State University](https://ist.psu.edu/), Summer 2025
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
     * Dissertation: Automated Multi-Task Machine Learning and Its Applications in Transportation Domain
