@@ -33,12 +33,13 @@ redirect_from:
 
 [//]: # (My goal is to combine computational methods with domain expertise to create a meaningful societal impact.)
 
+I am a PhD researcher in Informatics at **The Pennsylvania State University** (graduating Summer 2025), advised by [**Dr. Aron Laszka**](https://aronlaszka.com/) in the **Applied Artificial Intelligence Lab**. My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that optimize training efficiency and maximize real-world impact.
 
-I am a PhD researcher in Informatics at **The Pennsylvania State University** (graduating Summer 2025), specializing in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**. My work focuses on developing scalable deep learning and statistical models, with a strong emphasis on optimizing training efficiency and maximizing real-world impact.
+[//]: # (I am a PhD researcher in Informatics at **The Pennsylvania State University** &#40;graduating Summer 2025&#41;, specializing in **Automated Multi-Task Machine Learning &#40;AutoMTL&#41;**, **data science**, and **AI for social good**. My work focuses on developing scalable deep learning and statistical models, with a strong emphasis on optimizing training efficiency and maximizing real-world impact.)
 
 Over the past six years, I have contributed to **NSF- and DOE-funded projects**, applying machine learning to improve public transit operations, enhance energy efficiency, and advance security analytics. My PhD thesis investigates factors influencing MTL performance and introduces cost-effective affinity prediction strategies to optimize task grouping across domains including computer vision, tabular data, time series, and transportation.
 
-I hold an MS in Computer Science from the **University of Houston** and a BSc in Computer Science and Engineering from **Chittagong University of Engineering and Technology**.  
+I hold an MS in Computer Science from the **University of Houston** and a BSc in Computer Science and Engineering from **Chittagong University of Engineering and Technology**, Bangladesh.  
 
 [//]: # (Outside of research, I enjoy reading, hiking, traveling, and exploring thought-provoking films and TV series.)
 
