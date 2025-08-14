@@ -34,7 +34,6 @@ redirect_from:
 [//]: # (My goal is to combine computational methods with domain expertise to create a meaningful societal impact.)
 
 
-
 I am a PhD researcher in Informatics at **The Pennsylvania State University** (graduating Summer 2025), specializing in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**. My work focuses on developing scalable deep learning and statistical models, with a strong emphasis on optimizing training efficiency and maximizing real-world impact.
 
 Over the past six years, I have contributed to **NSF- and DOE-funded projects**, applying machine learning to improve public transit operations, enhance energy efficiency, and advance security analytics. My PhD thesis investigates factors influencing MTL performance and introduces cost-effective affinity prediction strategies to optimize task grouping across domains including computer vision, tabular data, time series, and transportation.
