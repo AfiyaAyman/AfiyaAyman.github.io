@@ -17,11 +17,12 @@ You can download my full CV and short resume below:
 Education
 ======
 * Ph.D. in **Informatics**
-  * [Pennsylvania State University] (https://ist.psu.edu/) (contd.), Summer 2025
+  * [Pennsylvania State University](https://ist.psu.edu/), Summer 2025
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
+    * Dissertation: Automated Multi-Task Machine Learning and Its Applications in Transportation Domain
 * MS in **Computer Science**, [University of Houston](https://www.uh.edu/nsm/computer-science/), Summer 2022
     * Advisor: [Dr. Aron Laszka](https://aronlaszka.com/)
-* BSC in **Computer Science and Engineering**, [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/), Bangladesh 2015
+* BSc in **Computer Science and Engineering**, [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/), Bangladesh 2015
 
 Professional Experience
 ======
@@ -43,7 +44,7 @@ Professional Experience
 - Assisted in instruction, grading, and student support for undergraduate programming course.
 
 **Lecturer** — School of Science, Engineering & Technology,
-[East Delta University](https://www.eastdelta.edu.bd/), Bangladesh — **2016 – 2018**  
+[East Delta University](https://www.eastdelta.edu.bd/), Bangladesh — **September 2016 – December 2018**  
 - Taught foundational CS and engineering courses, including Programming, Data Structures, Discrete Math, AI, and OS. 
 - Designed course materials and mentored students on research and coding competitions.
 
@@ -51,7 +52,7 @@ Professional Experience
 **Software & Systems Development**  
 Developed full-stack web/mobile applications (restaurant management, real estate listing, online exams) using CorePHP, MySQL, JavaScript, HTML/CSS, Bootstrap, jQuery. Built ML-powered analytics pipelines integrating Python, PyTorch, and TensorFlow with large-scale sensor, GPS, and weather data.
 
-
+* 
 [//]: # (* 2019/01 - Present - **Graduate Research Assistant**)
 
 [//]: # (  * [University of Houston]&#40;https://www.uh.edu/&#41;, [Pennsylvania State University]&#40;https://www.psu.edu/&#41;)
@@ -85,6 +86,7 @@ Developed full-stack web/mobile applications (restaurant management, real estate
 [//]: # (    * Mentored students for their research projects and thesis)
 
 [//]: # (* )
+
 Publications
 ======
   <ul>{% for post in site.publications %}
