@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <style>
+    @font-face {
+      font-family: 'Academicons';
+      src: url('{{ site.baseurl }}/assets/fonts/academicons.woff?v=1.8.0') format('woff');
+    }
+    text {
+      font-family: 'Academicons';
+      font-size: 16px;
+      fill: #4c4c4c; /* You can change this color */
+    }
+  </style>
+  <text x="0" y="14">\e828</text>
+</svg>
