@@ -17,7 +17,8 @@ author_profile: true
 
 ---
 
-### 2. **Data-Driven Energy Optimization for Multi-Modal Transit Agencies**
+### 2. **Data-Driven Energy Optimization for Multi-Modal Transit Agencies** [Project Details](https://smarttransit.ai/energy.html#:~:text=To%20make%20this%20large%20scale,under%20Award%20Number%20DE%2DEE0008467.)
+
 
 [//]: # (- **Overview:** )
 
@@ -32,11 +33,12 @@ author_profile: true
 
 ---
 
-### 3. **Neural Architecture and Feature Search for Predicting Public Transit Ridership**
+### 3. **Neural Architecture and Feature Search for Predicting Public Transit Ridership** [Project Details](https://aronlaszka.com/project/ai-engine/)
 
 [//]: # (- **Overview:**)
 - Developed a neural architecture and feature search framework for route-specific ridership prediction using Automatic Passenger Count and weather data - **jointly optimizing prediction error and model complexity** 
-- Evaluated on real-world transit ridership data across ten routes, showing that route-specific neural network architectures and features outperform generally optimized models in prediction accuracy **(9% lower error)**. Architectures optimized per route-task consistently yielded the best results compared to hand-designed baselines, demonstrating the benefit of customizing both model complexity and feature set to task-specific patterns in real-world transit systems. 
+- Evaluated on real-world transit ridership data across ten routes, showing that route-specific neural network architectures and features outperform generally optimized models in prediction accuracy **(9% lower error)**. 
+- Architectures optimized per route-task consistently yielded the best results compared to hand-designed baselines, demonstrating the benefit of customizing both model complexity and feature set to task-specific patterns in real-world transit systems. 
 
 [//]: # (- **Skills:** Python, Tensorflow, Keras, Numpy, Scikit-learn)
 
