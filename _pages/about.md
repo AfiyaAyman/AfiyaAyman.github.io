@@ -52,5 +52,5 @@ I hold an MS in Computer Science from the **University of Houston** and a BSc in
 * AI for Social Good
 * Data Science
 
-[![Hits](https://hits.sh/afiyaayman.github.io.svg)](https://hits.sh/afiyaayman.github.io/)
+[//]: # ([![Hits]&#40;https://hits.sh/afiyaayman.github.io.svg&#41;]&#40;https://hits.sh/afiyaayman.github.io/&#41;)
 
