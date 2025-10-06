@@ -11,7 +11,8 @@ author_profile: true
 
 [//]: # (- **Overview:** )
 - Proposed an efficient affinity-driven MTL framework that pre-selects task groups to maximize MTL performance gains. 
-- Achieved **15% lower prediction error** than single-task models and **~7% MSE improvement over baseline MTL grouping methods**. Validated on real-world public transit ridership data, demonstrating consistent performance gains across task groups.
+- Proposed task-affinity–driven grouping strategies, improving MTL gain prediction accuracy, and outperforming baseline MTL gain prediction methods (TAG, MTGNet, GRADTAE) by a wide margin, achieving up to 4x higher correlation with ground-truth gains across computer vision, tabular, time-series, and transportation benchmarks.
+- Achieved **15% lower prediction error** than single-task models and **~7% MSE improvement over Naive baseline MTL**. Validated on real-world public transit ridership data, demonstrating consistent performance gains across task groups.
 
 [//]: # (- **Skills:** Python, Tensorflow, Keras, Numpy, Scipy, Scikit-learn)
 
