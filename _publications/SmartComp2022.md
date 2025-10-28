@@ -6,7 +6,7 @@ permalink: /publications/SmartComp2022
 venue: 2022 IEEE International Conference on Smart Computing (SMARTCOMP)
 ---
 
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9821058)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9821058)
 
 ## Abstract
 Accurately predicting the ridership of public-transit
