@@ -12,8 +12,8 @@ redirect_from:
 
 [//]: # (- **[Download Resume &#40;Short&#41;]&#40;https://drive.google.com/uc?export=view&id=1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE&#41;** — condensed 1–2 page version.)
 
-- **[View CV (Full)](https://drive.google.com/file/d/1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b/preview)** — detailed academic CV with publications, projects, and teaching.
-- **[View Resume (Short)](https://drive.google.com/file/d/1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE/preview)** — condensed 1–2 page version.
+- **[View CV (Full)](https://drive.google.com/file/d/1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b/preview)** — detailed academic CV.
+- **[View Resume (Short)](https://drive.google.com/file/d/1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE/preview)** — condensed.
 
 
 [//]: # (https://drive.google.com/file/d/1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b/view?usp=drive_link)
