@@ -8,10 +8,12 @@ redirect_from:
 ---
 ## 📄 Download
 
-You can download my full CV and short resume below:
+[//]: # (- **[Download CV &#40;Full&#41;]&#40;https://drive.google.com/uc?export=view&id=1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b&#41;** — detailed academic CV with publications, projects, and teaching.)
 
-- **[Download CV (Full)](https://drive.google.com/uc?export=view&id=1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b)** — detailed academic CV with publications, projects, and teaching.
-- **[Download Resume (Short)](https://drive.google.com/uc?export=view&id=1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE)** — condensed 1–2 page version.
+[//]: # (- **[Download Resume &#40;Short&#41;]&#40;https://drive.google.com/uc?export=view&id=1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE&#41;** — condensed 1–2 page version.)
+
+- **[View CV (Full)](https://drive.google.com/file/d/1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b/preview)** — detailed academic CV with publications, projects, and teaching.
+- **[View Resume (Short)](https://drive.google.com/file/d/1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE/preview)** — condensed 1–2 page version.
 
 
 [//]: # (https://drive.google.com/file/d/1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b/view?usp=drive_link)
