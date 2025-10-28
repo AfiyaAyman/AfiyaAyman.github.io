@@ -39,8 +39,8 @@ Professional Experience
 - Built ANN-based energy prediction models reducing MSE by 33%, developed NAS methods for ridership prediction (9% error reduction). 
 - Conducted large-scale NLP and statistical analyses on cybersecurity datasets, uncovering behavioral and security patterns in smart contract development and bug bounty programs.
 
-**Teaching Assistant** 
-[The Pennsylvania State University](https://www.psu.edu/) — **Spring 2025**  
+**Teaching Assistant** — Object Oriented Programming (OOP)
+[The Pennsylvania State University](https://www.psu.edu/) — **Jan 2025 - May 2025 (Spring 2025)**  
 - Assisted in instruction, grading, and student support for undergraduate programming course.
 
 **Lecturer** — School of Science, Engineering & Technology,
