@@ -40,10 +40,12 @@ Professional Experience
 - Conducted large-scale NLP and statistical analyses on cybersecurity datasets, uncovering behavioral and security patterns in smart contract development and bug bounty programs.
 
 **Teaching Assistant** — Object Oriented Programming (OOP)
+
 [The Pennsylvania State University](https://www.psu.edu/) — **Jan 2025 - May 2025 (Spring 2025)**  
 - Assisted in instruction, grading, and student support for undergraduate programming course.
 
 **Lecturer** — School of Science, Engineering & Technology,
+
 [East Delta University](https://www.eastdelta.edu.bd/), Bangladesh — **September 2016 – December 2018**
 - Taught foundational CS and engineering courses, including Programming, Data Structures, Discrete Math, AI, and OS.
 - Designed course materials and mentored students on research and programming competitions.
@@ -53,7 +55,6 @@ Professional Experience
 
 - Developed full-stack web and mobile applications (restaurant management, real estate listing, online examination systems) using CorePHP, MySQL, JavaScript, HTML/CSS, Bootstrap, and jQuery.
 - Built ML-powered analytics pipelines integrating Python, PyTorch, and TensorFlow with large-scale sensor, GPS, and weather data for automated transit data processing and prediction.
-* 
 
 
 Publications
