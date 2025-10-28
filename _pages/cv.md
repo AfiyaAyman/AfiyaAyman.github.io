@@ -10,9 +10,18 @@ redirect_from:
 
 You can download my full CV and short resume below:
 
-- **[Download CV (Full)](files/AfiyaAyman_CV.pdf)** — detailed academic CV with publications, projects, and teaching.
-- **[Download Resume (Short)](files/AfiyaAyman_Resume.pdf)** — condensed 1–2 page version.
+- **[Download CV (Full)](https://drive.google.com/uc?export=view&id=1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b)** — detailed academic CV with publications, projects, and teaching.
+- **[Download Resume (Short)](https://drive.google.com/uc?export=view&id=1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE)** — condensed 1–2 page version.
 
+
+[//]: # (https://drive.google.com/file/d/1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b/view?usp=drive_link)
+
+[//]: # (https://drive.google.com/uc?export=view&id=1k3wOgMlh4TOasnwG_b_QWVWE4ELBAZ9b)
+
+[//]: # ()
+[//]: # (https://drive.google.com/file/d/1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE/view?usp=drive_link)
+
+[//]: # (https://drive.google.com/uc?export=view&id=1WeCyYWuiAuxmDzwE5GQ2bp51GKnKqMbE)
 
 Education
 ======
@@ -39,7 +48,7 @@ Professional Experience
 - Built ANN-based energy prediction models reducing MSE by 33%, developed NAS methods for ridership prediction (9% error reduction). 
 - Conducted large-scale NLP and statistical analyses on cybersecurity datasets, uncovering behavioral and security patterns in smart contract development and bug bounty programs.
 
-**Teaching Assistant** — Object Oriented Programming (OOP)
+**Teaching Assistant** — Object-Oriented Programming (OOP)
 
 [The Pennsylvania State University](https://www.psu.edu/) — **Jan 2025 - May 2025 (Spring 2025)**  
 - Assisted in instruction, grading, and student support for undergraduate programming course.
