@@ -33,7 +33,7 @@ redirect_from:
 
 [//]: # (My goal is to combine computational methods with domain expertise to create a meaningful societal impact.)
 
-I am a Machine Learning Scientist on the Deep Learning & AI team at Shell, where I work on applied ML and generative AI systems for scientific and engineering applications. My work focuses on developing agentic AI workflows and translating research prototypes into scalable, production-ready solutions in collaboration with domain scientists.
+I am a Machine Learning Scientist on the **Deep Learning & AI team** at **Shell**, where I work on applied ML and generative AI systems for scientific and engineering applications. My work focuses on developing agentic AI workflows and translating research prototypes into scalable, production-ready solutions in collaboration with domain scientists.
 
 I have completed my PhD in Informatics at **The Pennsylvania State University** (graduating Summer 2025), advised by [**Dr. Aron Laszka**](https://aronlaszka.com/) in the **Applied Artificial Intelligence Lab**. My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that optimize training efficiency and maximize real-world impact.
 
