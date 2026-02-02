@@ -56,8 +56,11 @@ I hold an MS in Computer Science from the **University of Houston** and a BSc in
 
 [//]: # ([![Hits]&#40;https://hits.sh/afiyaayman.github.io.svg&#41;]&#40;https://hits.sh/afiyaayman.github.io/&#41;)
 
-## News
+[//]: # (## News)
 
-- **Jan 2026** — Paper accepted to *ICLR 2026*: *Ensemble Prediction of Task Affinity for Efficient Multi-Task Learning*.
-- **Nov 2025** — Joined Shell as a Machine Learning Scientist on the Deep Learning & AI team.
-- **Aug 2025** — PhD awarded, Pennsylvania State University.
+[//]: # ()
+[//]: # (- **Jan 2026** — Paper accepted to *ICLR 2026*: *Ensemble Prediction of Task Affinity for Efficient Multi-Task Learning*.)
+
+[//]: # (- **Nov 2025** — Joined Shell as a Machine Learning Scientist on the Deep Learning & AI team.)
+
+[//]: # (- **Jun 2025** — Passed my Doctoral Defense! Officially Dr Afiya Ayman now!)
