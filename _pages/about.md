@@ -33,7 +33,9 @@ redirect_from:
 
 [//]: # (My goal is to combine computational methods with domain expertise to create a meaningful societal impact.)
 
-I am a PhD researcher in Informatics at **The Pennsylvania State University** (graduating Summer 2025), advised by [**Dr. Aron Laszka**](https://aronlaszka.com/) in the **Applied Artificial Intelligence Lab**. My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that optimize training efficiency and maximize real-world impact.
+I am a Machine Learning Scientist on the Deep Learning & AI team at Shell, where I work on applied ML and generative AI systems for scientific and engineering applications. My work focuses on developing agentic AI workflows and translating research prototypes into scalable, production-ready solutions in collaboration with domain scientists.
+
+I have completed my PhD in Informatics at **The Pennsylvania State University** (graduating Summer 2025), advised by [**Dr. Aron Laszka**](https://aronlaszka.com/) in the **Applied Artificial Intelligence Lab**. My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that optimize training efficiency and maximize real-world impact.
 
 [//]: # (I am a PhD researcher in Informatics at **The Pennsylvania State University** &#40;graduating Summer 2025&#41;, specializing in **Automated Multi-Task Machine Learning &#40;AutoMTL&#41;**, **data science**, and **AI for social good**. My work focuses on developing scalable deep learning and statistical models, with a strong emphasis on optimizing training efficiency and maximizing real-world impact.)
 
@@ -54,3 +56,8 @@ I hold an MS in Computer Science from the **University of Houston** and a BSc in
 
 [//]: # ([![Hits]&#40;https://hits.sh/afiyaayman.github.io.svg&#41;]&#40;https://hits.sh/afiyaayman.github.io/&#41;)
 
+## News
+
+- **Jan 2026** — Paper accepted to *ICLR 2026*: *Ensemble Prediction of Task Affinity for Efficient Multi-Task Learning*.
+- **Nov 2025** — Joined Shell as a Machine Learning Scientist on the Deep Learning & AI team.
+- **Aug 2025** — PhD awarded, Pennsylvania State University.
