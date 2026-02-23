@@ -33,20 +33,25 @@ redirect_from:
 
 [//]: # (My goal is to combine computational methods with domain expertise to create a meaningful societal impact.)
 
-I am a Machine Learning Scientist on the **Deep Learning & AI team** at **Shell**, where I work on applied ML and generative AI systems for scientific and engineering applications. My work focuses on developing agentic AI workflows and translating research prototypes into scalable, production-ready solutions in collaboration with domain scientists.
-
-I have completed my PhD in Informatics at **The Pennsylvania State University** (graduating Summer 2025), advised by [**Dr. Aron Laszka**](https://aronlaszka.com/) in the **Applied Artificial Intelligence Lab**. My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that optimize training efficiency and maximize real-world impact.
 
 [//]: # (I am a PhD researcher in Informatics at **The Pennsylvania State University** &#40;graduating Summer 2025&#41;, specializing in **Automated Multi-Task Machine Learning &#40;AutoMTL&#41;**, **data science**, and **AI for social good**. My work focuses on developing scalable deep learning and statistical models, with a strong emphasis on optimizing training efficiency and maximizing real-world impact.)
 
-Over the past seven years, I have contributed to **NSF- and DOE-funded projects**, applying machine learning to improve public transit operations, enhance energy efficiency, and advance security analytics. My PhD thesis investigates factors influencing MTL performance and introduces cost-effective affinity prediction strategies to optimize task grouping across domains including computer vision, tabular data, time series, and transportation.
 
-I hold an MS in Computer Science from the **University of Houston** and a BSc in Computer Science and Engineering from **Chittagong University of Engineering and Technology**, Bangladesh.  
+[//]: # (I am a Machine Learning Scientist on the **Deep Learning & AI team** at **Shell**, where I work on applied ML and generative AI systems for scientific and engineering applications. My work focuses on developing agentic AI workflows and translating research prototypes into scalable, production-ready solutions in collaboration with domain scientists.)
 
-[//]: # (Outside of research, I enjoy reading, hiking, traveling, and exploring thought-provoking films and TV series.)
+I am a Data Scientist working on the Deep Learning & AI team at Shell, where I focus on applied machine learning and generative AI systems for scientific and engineering applications. My current work involves developing LLM-based pipelines for document understanding, information extraction, and translating domain knowledge into scalable, production-ready solutions in collaboration with domain scientists.
+
+[//]: # (I am a Data Scientist working on the Deep Learning & AI research team at Shell, where I focus on applied machine learning and generative AI systems for scientific and engineering applications. My work involves developing LLM-based pipelines for document understanding and translating domain knowledge into scalable, production-ready solutions in collaboration with domain scientists.)
+
+I have completed my PhD in Informatics at **The Pennsylvania State University** in Summer 2025, advised by [**Dr. Aron Laszka**](https://aronlaszka.com/) in the **Applied Artificial Intelligence Lab**. I also hold an MS in Computer Science from the **University of Houston** and a BSc in Computer Science and Engineering from **Chittagong University of Engineering and Technology**, Bangladesh.  
 
 
-[//]: # (I have a particular interest in fiction books and I like to explore new places outdoors. I also prefer intellectually stimulating TV series and movies. )
+I am a Data Scientist working on the Deep Learning & AI team at Shell, where I focus on applied machine learning and generative AI systems for scientific and engineering applications. My current work involves developing LLM-based pipelines for document understanding and information extraction, and translating domain knowledge into scalable, production-ready solutions in collaboration with domain scientists.
+
+My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that improve training efficiency and real-world impact.
+Over the past seven years, I have contributed to **NSF- and DOE-funded research projects**, applying machine learning to improve public transit operations and enhance energy efficiency. My PhD thesis investigates factors influencing MTL performance and introduces cost-effective affinity prediction strategies to optimize task grouping across domains including computer vision, tabular data, time series, and transportation.
+I am especially interested in bridging research and practice, building AI systems that are both principled and impactful in real-world settings.
+
 ### Interests
 
 * Automated Machine Learning (AutoML)
