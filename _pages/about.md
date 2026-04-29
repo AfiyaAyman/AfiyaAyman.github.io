@@ -34,14 +34,20 @@ I am especially interested in bridging research and practice, building AI system
 
 [//]: # (- **Jun 2025** — Passed my Doctoral Defense! Officially Dr Afiya Ayman now!)
 
----
-layout: archive
-title: "Research Projects"
-permalink: /projects/
-author_profile: true
----
+[//]: # (---)
 
-## 🖥️ Featured Projects
+[//]: # (layout: archive)
+
+[//]: # (title: "Research Projects")
+
+[//]: # (permalink: /projects/)
+
+[//]: # (author_profile: true)
+
+[//]: # (---)
+
+
+## 🖥️ Featured Research Projects
 
 ### 1. **Automated Multi-Task Machine Learning for Ridership Prediction of Public Transportation Routes**
 
