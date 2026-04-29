@@ -8,6 +8,8 @@ venue: 2022 IEEE International Conference on Smart Computing (SMARTCOMP)
 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9821058)
 
+[[Source Code]](https://github.com/AfiyaAyman/Neural-Architecture-and-Feature-Search-for-Ridership-Prediction-SmartComp2022)
+
 ## Abstract
 Accurately predicting the ridership of public-transit
 routes provides substantial benefits to both transit agencies, who

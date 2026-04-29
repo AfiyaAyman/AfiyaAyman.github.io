@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist working on the **Deep Learning & AI team** at **Shell**, where I focus on applied machine learning and generative AI systems for scientific and engineering applications. My current work involves developing LLM-based pipelines for document understanding and information extraction, and translating domain knowledge into scalable, production-ready solutions in collaboration with domain scientists.
+I am a Data Scientist working with the **Deep Learning & AI team** at **Shell**, where I focus on applied machine learning and generative AI systems for scientific and engineering applications. 
+
+Prior to joining Shell, I worked as a graduate researcher at **Pennsylvania State University** and **University of Houston**, contributing to research at the intersection of ***machine learning, optimization, and intelligent systems***.
 
 My research specializes in **Automated Multi-Task Machine Learning (AutoMTL)**, **data science**, and **AI for social good**, focusing on scalable deep learning and statistical models that improve training efficiency and real-world impact.
 Over the past seven years, I have contributed to **NSF- and DOE-funded research projects**, applying machine learning to improve public transit operations and enhance energy efficiency. My PhD thesis investigates **factors influencing MTL performance** and introduces **cost-effective affinity prediction strategies** to optimize task grouping across domains including computer vision, tabular data, time series, and transportation.
